@@ -1,0 +1,16 @@
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\bin\Debug\netcoreapp3.1\DongHanhDiscordBot.exe
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\obj\Debug\netcoreapp3.1\DongHanhDiscordBot.csprojAssemblyReference.cache
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\obj\Debug\netcoreapp3.1\DongHanhDiscordBot.AssemblyInfoInputs.cache
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\obj\Debug\netcoreapp3.1\DongHanhDiscordBot.AssemblyInfo.cs
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\bin\Debug\netcoreapp3.1\DSharpPlus.dll
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\obj\Debug\netcoreapp3.1\DongHanhDiscordBot.csproj.CopyComplete
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\bin\Debug\netcoreapp3.1\DSharpPlus.CommandsNext.dll
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\bin\Debug\netcoreapp3.1\DongHanhDiscordBot.deps.json
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\bin\Debug\netcoreapp3.1\DongHanhDiscordBot.runtimeconfig.json
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\bin\Debug\netcoreapp3.1\DongHanhDiscordBot.runtimeconfig.dev.json
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\bin\Debug\netcoreapp3.1\DongHanhDiscordBot.dll
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\bin\Debug\netcoreapp3.1\DongHanhDiscordBot.pdb
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\bin\Debug\netcoreapp3.1\DSharpPlus.Interactivity.dll
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\obj\Debug\netcoreapp3.1\DongHanhDiscordBot.dll
+C:\Users\Philips\source\repos\DongHanhDiscordBot\DongHanhDiscordBot\obj\Debug\netcoreapp3.1\DongHanhDiscordBot.pdb
