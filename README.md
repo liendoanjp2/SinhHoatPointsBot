@@ -23,3 +23,9 @@ Built with
 - Add users to a "Sinh Hoat"
 - Add and deduct points
 - On app close, write to a text file which allows the bot to restart with previous data
+
+## How to use
+
+1. Request a API token from: https://discord.com/developers
+2. Add the token in *config.json*
+3. Modify PointsCommands.cs to your Admins/Paths. 
