@@ -28,4 +28,6 @@ Built with
 
 1. Request a API token from: https://discord.com/developers
 2. Add the token in *config.json*
-3. Modify PointsCommands.cs to your Admins/Paths. 
+3. Modify PointsCommands.cs to your admins userids and local paths.
+4. Invite the bot to your server.
+4. Run the app! (Add users with !addUser) first!
