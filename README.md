@@ -10,7 +10,7 @@ Doan Dong Hanh chose to move Sinh Hoat into Discord. In this, we are able to use
 
 ## Here's a Demo! 
 
-
+![](https://github.com/liendoanjp2/SinhHoatPointsBot/blob/master/Demo%20Screenshots/Demo.PNG)
 
 ## Technology used
 
@@ -31,3 +31,16 @@ Built with
 3. Modify PointsCommands.cs to your admins userids and local paths.
 4. Invite the bot to your server.
 4. Run the app! (Add users with !addUser) first!
+
+
+Commands:
+
+!addUser {Person's Name} (Adds a user)
+!awardPoints {Person's Name}/{Point Value} (Awards points to a user)
+!deductPoints {Person's Name}/{Point Value} (Deducts points to a user)
+
+See !help for more fun commands :) 
+
+## Development!
+
+Let's make this more awesome! I wrote this one evening for sinh hoat the next day. Fork off and let's build something more awesome! Open to any feature ideas!
