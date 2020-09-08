@@ -1,4 +1,4 @@
-# Sinh Hoat Points Body
+# Sinh Hoat Points
 
 ## Overview
 
